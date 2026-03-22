@@ -1,4 +1,4 @@
-name: Java CI/CD with Maven to Lightsail
+name: BOOT Deploy
 
 on:
   push:
